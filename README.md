@@ -2,6 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=BB2649&text=DASHBOARD)
 <!--
 **DASHIAN/DASHIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/JAVA-BB2649?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-BB2649?style=for-the-badge&logo=Oracle&logoColor=white">
 
 Here are some ideas to get you started:
 
